@@ -3,7 +3,7 @@
 ![](https://img.shields.io/github/stars/NineRiverSec/Mac_Tools) ![](https://img.shields.io/github/forks/NineRiverSec/Mac_Tools)  ![](https://img.shields.io/github/issues/ghealer/GUI_Tools)
 > 让你在Mac下免去在命令行执行 java -jar xxx.jar 改为原生应用启动。
 
-### ✨ Demo
+### ✨ 演示
 ![](https://raw.githubusercontent.com/NineRiverSec/Mac_Tools/main/img/Demo.png)
 
 
