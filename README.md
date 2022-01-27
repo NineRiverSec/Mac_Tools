@@ -13,9 +13,9 @@
 
   `双击打开后 将应用拖动到Applications文件夹就可 `
   
-- 下载安装包
+- 下载安装包地址
 
-  `xxxxxxxx`
+  `5Lyg6L6T6ZO+5o6l77yaaHR0cHM6Ly9hbmR1LmNvd3RyYW5zZmVyLmNvbS9zLzg0NTA1ZWIxMGU4YjQ1IOaIliDmiZPlvIDjgJDlpbbniZvlv6vkvKDjgJFjb3d0cmFuc2Zlci5jb20g5L2/55So5Lyg6L6T5Y+j5Luk77yacmJwdnZsIOaPkOWPlu+8mw==`
   
   ( 通用打开密码:123456 )
   
