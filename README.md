@@ -23,7 +23,7 @@
   
 - 实在是懒得制作应用的图标了 大部分采用了下面这个图片作为图标。寓意手握正义，禁止破坏。
   
-  <img src="https://raw.githubusercontent.com/NineRiverSec/Mac_Tools/main/img/Justice.png" style="zoom:24%;" />
+  ![](https://raw.githubusercontent.com/NineRiverSec/Mac_Tools/main/img/Justice.png)
   
 - 现有应用
 ```markdown
