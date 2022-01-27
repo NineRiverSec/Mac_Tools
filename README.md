@@ -26,6 +26,7 @@
 .
 ├── Behinder.dmg
 ├── Burp Suite Pro.dmg
+├── Burp Suite Professional.dmg
 ├── CTFCrackTools-4.0.4.dmg
 ├── Cknife.dmg
 ├── Cobalt Strike 4.4.dmg
@@ -60,7 +61,7 @@
 ├── 神机.dmg
 └── 致远OA漏洞全版本扫描工具v1.0.1.dmg
 
-0 directories, 35 files
+0 directories, 36 files
 ```
 
 ### 🐾  更新日志
