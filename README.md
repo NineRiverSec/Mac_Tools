@@ -21,6 +21,10 @@
   
 - 为了压缩体积 大部分应用没有内置JDK，这样的选择能够将应用保持和xxx.jar 原文件大小相同。
   
+- 实在是懒得制作应用的图标了 大部分采用了下面这个图片作为图标。寓意手握正义，禁止破坏。
+  
+  <img src="https://raw.githubusercontent.com/NineRiverSec/Mac_Tools/main/img/Justice.png" style="zoom:24%;" />
+  
 - 现有应用
 ```markdown
 .
@@ -107,4 +111,5 @@
 	
 	
 	
+
 
