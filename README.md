@@ -17,7 +17,7 @@
 
 * 下载安装包地址
 
-  `xxxxxx`
+  `5Lyg6L6T6ZO+5o6l77yaaHR0cHM6Ly9hbmR1LmNvd3RyYW5zZmVyLmNvbS9zLzM5YjE2NTU5OTcyZTQzIOaIliDmiZPlvIDjgJDlpbbniZvlv6vkvKDjgJFjb3d0cmFuc2Zlci5jb20g5L2/55So5Lyg6L6T5Y+j5Luk77yaZmhjcWpsIOaPkOWPlu+8mw==`
 
   ( 通用打开密码：明天星期一了)
 
