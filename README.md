@@ -140,7 +140,7 @@
 > 您的使用行为或者您以其他任何明示或者默示方式表示接受本协议的，即视为您已阅读并同意本协议的约束。&#x20;
 
 ### 🤔 关于
-![ ](https://raw.githubusercontent.com/NineRiverSec/Mac_Tools/main/img/%25E5%2585%25AC%25E4%25BC%2597%25E5%258F%25B7.png)
+![](https://raw.githubusercontent.com/NineRiverSec/Mac_Tools/main/img/%E5%85%AC%E4%BC%97%E5%8F%B7.png)
 
 
 
