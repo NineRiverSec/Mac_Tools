@@ -47,7 +47,7 @@
 | Shiro\_AttACK           | [https://github.com/SummerSec/ShiroAttack2](https://github.com/SummerSec/ShiroAttack2 "https://github.com/SummerSec/ShiroAttack2") | 4.5.4      |                              |
 | SpringBootExploit       | [https://github.com/0x727/SpringBootExploit](https://github.com/0x727/SpringBootExploit "https://github.com/0x727/SpringBootExploit") | 1.3        |                              |
 | SpringExploit           | [https://github.com/Lotus6/SpringExploit](https://github.com/Lotus6/SpringExploit "https://github.com/Lotus6/SpringExploit") | 1          |                              |
-| Strruts2                |                                                              | 17\_6      |                              |
+| Struts2                |                                                              | 17\_6      |                              |
 | Thelostworld\_OA        | [https://github.com/thelostworldFree](https://github.com/thelostworldFree "https://github.com/thelostworldFree") | 1.1        |                              |
 | ThinkPHPGUI             | [https://github.com/Lotus6/ThinkphpGUI](https://github.com/Lotus6/ThinkphpGUI "https://github.com/Lotus6/ThinkphpGUI") | 1.3        |                              |
 | TianXie                 | [https://github.com/shack2/skyscorpion](https://github.com/shack2/skyscorpion "https://github.com/shack2/skyscorpion") | 1          | 已不更新                     |
