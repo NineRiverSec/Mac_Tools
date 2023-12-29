@@ -5,7 +5,7 @@
 
 > 将你的Mac打造成最强渗透测试机,免去在命令行执行 java -jar xxx.jar 改为原生应用启动。
 
-## ~官网上线 后期GitHub将不会更新 请访问 www.mactools.app~ （因未来工作方向原因可能废弃此项目）
+## ~官网上线 后期GitHub将不会更新 请访问 www.mactools.app~ （废弃项目，暂停更新）
 
 ### ✨ 演示
 
